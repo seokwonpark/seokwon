@@ -1,0 +1,3 @@
+# seokwon
+
+python study
